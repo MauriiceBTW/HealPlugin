@@ -1,0 +1,8 @@
+name: HealPlugin
+version: '${project.version}'
+main: me.maurice.healplugin.HealPlugin
+api-version: 1.20
+
+commands:
+  heal:
+    description: Heals the player
