@@ -1,4 +1,5 @@
 package me.maurice.healplugin;
+// change this to your package if you copy & paste!
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
